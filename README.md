@@ -1,4 +1,4 @@
-🍽️ Projeto Página de Receita
+#🍽️ Projeto Página de Receita
 
 Este é um projeto de página web sobre uma receita culinária, desenvolvido com HTML e CSS.
 O objetivo é apresentar a receita de forma responsiva e organizada, seguindo o layout definido no Figma.
